@@ -6,7 +6,7 @@ I'm a seasoned engineer with **15+ years of experience** in system optimization 
 
 ## Notable Projects 🚀
 
-- **[Text-to-Video Generation](https://github.com/the-dsvolk/text-to-video)** - An exciting ML pipeline that transforms text descriptions into video content using K8s and [Mochi-1](https://github.com/genmoai/mochi) 
+- **[Text-to-Video Generation](https://github.com/the-dsvolk/text-to-video)** - An ML pipeline that transforms text descriptions into video content using K8s and [Mochi-1](https://github.com/genmoai/mochi) 
 - **[Xbench Performance Framework](https://github.com/the-dsvolk/Xbench)** - A robust stress testing framework I created during my time at MariaDB
 - **Migration Simulation** - Developed innovative software for large-scale database migrations (MariaDB to Postgres) at ServiceNow  
 
