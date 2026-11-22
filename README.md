@@ -6,9 +6,10 @@ I'm a seasoned engineer with **15+ years of experience** in system optimization 
 
 ## Notable Projects 🚀
 
-- **[Text-to-Video Generation](https://github.com/the-dsvolk/text-to-video)** - An ML pipeline that transforms text descriptions into video content using K8s and [Mochi-1](https://github.com/genmoai/mochi) 
-- **[Xbench Performance Framework](https://github.com/the-dsvolk/Xbench)** - A robust stress testing framework I created during my time at MariaDB
-- **Migration Simulation** - Developed innovative software for large-scale database migrations (MariaDB to Postgres) at ServiceNow  
+- **[qmx: Query Memory indeX](https://github.com/the-dsvolk/qmx-public)** - Local, private semantic search and memory over code, docs and Claude Code chats, served to agents over MCP. Uses Nemotron embeddings, Qwen reranker/judge models and sqlite-vec, all running on hardware I own (DGX Spark)
+- **[nvgx-profiling](https://github.com/the-dsvolk/nvgx-profiling)** - GPU profiling experiments with NVIDIA's Nsight Perf SDK for AI on a DGX Spark (GB10): vLLM/PyTorch traces in Perfetto, overhead measurements, and a design for fleet-wide continuous GPU profiling
+- **[Text-to-Video Generation](https://github.com/the-dsvolk/text-to-video)** - An ML pipeline that transforms text descriptions into video content using K8s and [Mochi-1](https://github.com/genmoai/mochi)
+- **[Xbench Performance Framework](https://github.com/mariadb-corporation/xbench-community)** - A robust stress testing framework I created during my time at MariaDB
 
 ## Patents 📋
 
